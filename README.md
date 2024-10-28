@@ -12,7 +12,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/phpmosquera/phpmosquera/output/snake.svg" alt="Snake animation" />
-
-###
